@@ -248,10 +248,11 @@ For questions or issues:
 
 1. Extract the Zip on the corresponding location
 
-Folder Location: C:\Users\*******\plant-shop
+Folder Location: C:\Users\\*******\plant-shop
 
 P.S 
 Make sure it is inside the plant-shop folder
+
 ---
 
 **Happy Plant Shopping! 🌱**
